@@ -1,4 +1,4 @@
-Due to my inexperience with using a terminal, I first ran the hello world executable file to ensure I had set everything up correctly. The -h flag was useful in gaining a general understanding of what I was doing.
+Due to my inexperience with using a terminal, I first ran the hello world executable file to ensure I had set everything up correctly. The -h flag was useful in gaining a surface-level understanding of what the commands actually did.
 
 ![Alt Text](EE322_Lab1_1.png)
 
