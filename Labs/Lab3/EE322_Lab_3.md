@@ -1,1 +1,5 @@
-
+![Alt Text](EE322_Lab3_1.png)
+![Alt Text](EE322_Lab3_2.png)
+![Alt Text](EE322_Lab3_3.png)
+![Alt Text](EE322_Lab3_4.png)
+![Alt Text](EE322_Lab3_5.png)
